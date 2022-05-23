@@ -1,3 +1,9 @@
 https://www.toolsqa.com/extent-report/extent-report-for-cucumber-testng-project/
 
 https://www.youtube.com/playlist?list=PLsGOlyTzNH6d_9FGrknsv7srPLxtf6EmN
+
+Make Maven to copy dependencies into target/lib
+
+https://stackoverflow.com/questions/97640/make-maven-to-copy-dependencies-into-target-lib
+
+mvn dependency:copy-dependencies -DoutputDirectory=lib/
