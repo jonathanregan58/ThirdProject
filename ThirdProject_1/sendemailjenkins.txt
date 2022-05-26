@@ -1,0 +1,97 @@
+jenkins can't find path to the ssl certification
+https://stackoverflow.com/questions/60667498/jenkins-cant-find-path-to-the-ssl-certification
+
+sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target jenkins email
+https://www.google.com/search?q=sun.security.provider.certpath.SunCertPathBuilderException%3A+unable+to+find+valid+certification+path+to+requested+target+jenkins+email&source=hp&ei=m7aNYvqWO6WLseMPgoWmmAo&iflsig=AJiK0e8AAAAAYo3Eq7ppzrjKMPLM5WSdbu2mTJK0PlVl&ved=0ahUKEwi60JX97fn3AhWlRWwGHYKCCaMQ4dUDCAY&uact=5&oq=sun.security.provider.certpath.SunCertPathBuilderException%3A+unable+to+find+valid+certification+path+to+requested+target+jenkins+email&gs_lcp=Cgdnd3Mtd2l6EANQAFjvFmCkGWgAcAB4AIABAIgBAJIBAJgBAKABAqABAQ&sclient=gws-wiz
+
+Unable to connect to SSL due to javax.net.ssl.SSLHandshakeException
+https://www.youtube.com/watch?v=c6--1GlM6sI
+
+PKIX path building failed error message
+https://support.cloudbees.com/hc/en-us/articles/217078498-PKIX-path-building-failed-error-message
+
+jenkins cacerts site:stackoverflow.com
+https://www.google.com/search?q=jenkins+cacerts+site:stackoverflow.com&sa=X&ved=2ahUKEwiHo_Km8fn3AhUzSmwGHammANsQrQIoBHoECAMQBQ&biw=1536&bih=754&dpr=1.25
+
+Can't find 'cacerts' folder on jenkins
+https://stackoverflow.com/questions/70687676/cant-find-cacerts-folder-on-jenkins
+
+jenkins can't find path to the ssl certification
+https://stackoverflow.com/questions/60667498/jenkins-cant-find-path-to-the-ssl-certification
+
+Jenkins "unable to find valid certification path to requested target" error while importing Git repository
+https://stackoverflow.com/questions/24563694/jenkins-unable-to-find-valid-certification-path-to-requested-target-error-whil
+
+Jenkins "unable to find valid certification path to requested target" error while importing Git repository
+https://stackoverflow.com/questions/24563694/jenkins-unable-to-find-valid-certification-path-to-requested-target-error-whil/47820334#47820334
+
+truststore jenkins where
+https://www.google.com/search?q=truststore+jenkins+where&source=hp&ei=mr6NYpuGJeeOseMPmo-_2Ac&iflsig=AJiK0e8AAAAAYo3MqqFPr3toa2qAY_CpbBN9rc-NGMKR&ved=0ahUKEwibu4rN9fn3AhVnR2wGHZrHD3sQ4dUDCAY&uact=5&oq=truststore+jenkins+where&gs_lcp=Cgdnd3Mtd2l6EAM6CwgAEIAEELEDEIMBOg4ILhCABBDHARDRAxDUAjoLCC4QgAQQxwEQ0QM6CAguELEDEIMBOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQ0QM6BAgAEEM6CAgAEIAEELEDOgQILhBDOgsILhCABBCxAxCDAToKCC4QxwEQ0QMQQzoICAAQsQMQgwE6CggAELEDEIMBEEM6BwgAELEDEAo6BwgAEIAEEAo6BwgAELEDEEM6BAgAEB46BggAEB4QCjoECAAQEzoICAAQHhAWEBM6BQghEKABOgYIABAeEBY6BwghEAoQoAFQAFjHLmDgL2gDcAB4AIABbogB1hCSAQQyMi41mAEAoAEB&sclient=gws-wiz
+
+How to add custom certificates to Jenkins internal JDKs?
+https://stackoverflow.com/questions/45556313/how-to-add-custom-certificates-to-jenkins-internal-jdks
+
+How can I find which Java Virtual Machine is running on my computer?
+https://stackoverflow.com/questions/17578358/how-can-i-find-which-java-virtual-machine-is-running-on-my-computer
+
+jvm how to know site:stackoverflow.com
+https://www.google.com/search?q=jvm+how+to+know+site:stackoverflow.com&sa=X&ved=2ahUKEwjzveefpPv3AhXhmeYKHV-DCCwQrQIoBHoECDEQBQ&biw=1536&bih=754&dpr=1.25
+
+Faild when I try to send an email in Jenkins
+https://stackoverflow.com/questions/52483842/faild-when-i-try-to-send-an-email-in-jenkins
+
+jenkins already add certificate send email error site:stackoverflow.com
+https://www.google.com/search?q=jenkins+already+add+certificate+send+email+error+site:stackoverflow.com&sa=X&ved=2ahUKEwiJhsXPpPv3AhUzmeYKHYgDArUQrQIoBHoECAwQBQ&biw=1536&bih=754&dpr=1.25
+
+Import Gmail certificate into java keystore
+http://notepad2.blogspot.com/2012/04/import-gmail-certificate-into-java.html
+http://gnuwin32.sourceforge.net/packages/openssl.htm
+
+How do I fix problems with server certificate for Sending SMTP Mails on UiPath?
+https://stackoverflow.com/questions/71401017/how-do-i-fix-problems-with-server-certificate-for-sending-smtp-mails-on-uipath
+
+certificate trusted list jenkins site:stackoverflow.com
+https://www.google.com/search?q=certificate+trusted+list+jenkins+site:stackoverflow.com&sa=X&ved=2ahUKEwjv0rGapfv3AhUGH7cAHSHoDF4QrQIoBHoECAsQBQ&biw=1536&bih=754&dpr=1.25
+
+How to properly import a selfsigned certificate into Java keystore that is available to all Java applications by default?
+https://stackoverflow.com/questions/11617210/how-to-properly-import-a-selfsigned-certificate-into-java-keystore-that-is-avail/11617655#11617655
+
+MENAMBAHKAN TRUSTED CERTIFICATE PADA JVM DI JENKINS
+https://fauzislami.com/blog/2021/03/10/menambahkan-trusted-certificate-pada-jvm-di-jenkins/
+
+Add GitHub SSL Certificate to Jenkins Keystore
+https://www.dammekens.be/2021/02/01/add-github-ssl-certificate-to-jenkins-keystore/
+
+how to update jvm site:stackoverflow.com
+https://www.google.com/search?q=how+to+update+jvm+site:stackoverflow.com&sa=X&ved=2ahUKEwjm8--zpPv3AhXD6XMBHcL4BjYQrQIoBHoECCYQBQ&biw=1536&bih=754&dpr=1.25
+
+How To Install Jenkins On Windows 10
+https://www.youtube.com/watch?v=1_Zs0gQq1Yc&list=PL6flErFppaj35spJjPy41-lruDjw2kRV-
+
+
+Jenkins email notification | plugin & send attachments in email
+https://www.youtube.com/watch?v=ihQ3Lh-re88
+
+SunCertPathBuilderException: unable to find valid certification path to requested target
+https://mkyong.com/webservices/jax-ws/suncertpathbuilderexception-unable-to-find-valid-certification-path-to-requested-target/
+
+jenkins send email javax
+https://www.youtube.com/results?search_query=jenkins+send+email+javax
+
+GMail SMTP STARTTLS on Port 587 no longer works
+https://stackoverflow.com/questions/61333820/gmail-smtp-starttls-on-port-587-no-longer-works
+
+already certificate send email jenkins still fail site:stackoverflow.com
+https://www.google.com/search?q=already+certificate+send+email+jenkins+still+fail+site:stackoverflow.com&ei=NsuNYpr4GKGOseMP6LOOyAk&start=10&sa=N&ved=2ahUKEwia65vQgfr3AhUhR2wGHeiZA5kQ8NMDegQIARBU&biw=1536&bih=754&dpr=1.25
+
+jenkins trusted certificates site:stackoverflow.com
+https://www.google.com/search?q=jenkins+trusted+certificates+site:stackoverflow.com&sa=X&ved=2ahUKEwi977ebhvr3AhVSTGwGHUDuBv0QrQIoBHoECAQQBQ&biw=1536&bih=754&dpr=1.25
+
+How is is possible that Java 11 validates a certificate whom intermediate certificate isn't avalaible in cacerts?
+https://stackoverflow.com/questions/69405990/how-is-is-possible-that-java-11-validates-a-certificate-whom-intermediate-certif
+
+check ssl certificate java site:stackoverflow.com
+https://www.google.com/search?q=check+ssl+certificate+java+site:stackoverflow.com&sa=X&ved=2ahUKEwih6b6sovv3AhW6ILcAHWzPDFIQrQIoBHoECAIQBQ&biw=1536&bih=754&dpr=1.25
+
+gmail smtp server's certificate download site:stackoverflow.com
+https://www.google.com/search?q=gmail+smtp+server%27s+certificate+download+site:stackoverflow.com&sa=X&ved=2ahUKEwjhsayD__n3AhXMTWwGHR6hCKUQrQIoBHoECA0QBQ&biw=1536&bih=754&dpr=1.25

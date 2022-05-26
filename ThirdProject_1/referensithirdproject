@@ -7,3 +7,70 @@ Make Maven to copy dependencies into target/lib
 https://stackoverflow.com/questions/97640/make-maven-to-copy-dependencies-into-target-lib
 
 mvn dependency:copy-dependencies -DoutputDirectory=lib/
+
+Trouble configuring Jenkins to email build results (using gmail)
+https://stackoverflow.com/questions/46028188/trouble-configuring-jenkins-to-email-build-results-using-gmail
+
+send email jenkins fail PKIX path building failed
+https://www.google.com/search?q=send+email+jenkins+fail+PKIX+path+building+failed&ei=xZeMYuqiI-ybseMPv7WzgAw&ved=0ahUKEwiqmeq23Pf3AhXsTWwGHb_aDMAQ4dUDCA0&uact=5&oq=send+email+jenkins+fail+PKIX+path+building+failed&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BggAEB4QFkoECEEYAEoECEYYAFDRAVjUBGCmB2gBcAF4AIABfogBygGSAQMxLjGYAQCgAQGgAQLIAQjAAQE&sclient=gws-wiz
+
+send email jenkins fail
+https://www.google.com/search?q=send+email+jenkins+fail&source=hp&ei=wZeMYsHbHMqPseMPpeiSgAQ&iflsig=AJiK0e8AAAAAYoyl0eEK9TER287n_VJa8h-XIpCP-kF0&ved=0ahUKEwiBwO-03Pf3AhXKR2wGHSW0BEAQ4dUDCAY&uact=5&oq=send+email+jenkins+fail&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6CwgAEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICAAQgAQQsQM6CwguEIAEELEDEIMBOggIABCxAxCDAToLCC4QsQMQgwEQ1AI6CwguEIAEEMcBEK8BOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQrwE6BQguEIAEOgoIABCABBCxAxAKOggILhCABBCxAzoICAAQHhAPEBY6BAgAEBM6CAgAEB4QFhATUABYwhlg4RtoAHAAeACAAYUBiAGjD5IBBDE5LjSYAQCgAQE&sclient=gws-wiz
+
+send email jenkins fail PKIX path building failed site:stackoverflow.com
+https://www.google.com/search?q=send+email+jenkins+fail+PKIX+path+building+failed+site:stackoverflow.com&sa=X&ved=2ahUKEwj33rG43Pf3AhVjS2wGHRi9AHwQrQIoBHoECAkQBQ
+
+Issue in configuring email in jenkins
+https://stackoverflow.com/questions/52374305/issue-in-configuring-email-in-jenkins
+
+Can't find 'cacerts' folder on jenkins
+https://stackoverflow.com/questions/70687676/cant-find-cacerts-folder-on-jenkins
+
+How to properly import a selfsigned certificate into Java keystore that is available to all Java applications by default?
+https://stackoverflow.com/questions/11617210/how-to-properly-import-a-selfsigned-certificate-into-java-keystore-that-is-avail/11617655#11617655
+At least in java 11 (sapmachine jre) the syntax changed slightly according to the manfile: keytool.exe -importcert -file <path to cer file> -cacerts -alias "<your alias>" – 
+Tschenser
+ Mar 18, 2021
+
+I can not configure e-mail Jenkins Extension
+https://stackoverflow.com/questions/57296545/i-can-not-configure-e-mail-jenkins-extension
+
+PKIX path building failed error message
+https://support.cloudbees.com/hc/en-us/articles/217078498-PKIX-path-building-failed-error-message
+
+Trouble configuring Jenkins to email build results (using gmail)
+https://stackoverflow.com/questions/46028188/trouble-configuring-jenkins-to-email-build-results-using-gmail
+
+Jenkins Email Notification Configuration : How to Send Email from Jenkins Job? ( SUPER Easy Way)
+https://www.youtube.com/watch?v=Jz0urXOQhbk
+
+send email jenkins ssl certificate
+https://www.google.com/search?q=send+email+jenkins+ssl+certificate&source=hp&ei=8P2MYrDkJp-gseMPuf2siAo&iflsig=AJiK0e8AAAAAYo0MAK8tQU9INkoi6sPTZjjudYDPuvZP&oq=send+email+jenkins+ssl&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyCAghEB4QFhAdOgQIABBDOgUIABCRAjoICAAQsQMQgwE6CwguEIAEELEDEIMBOgsILhCxAxCDARDUAjoICAAQgAQQsQM6CwguEMcBENEDEJECOg4ILhCABBCxAxDHARCvAToLCAAQgAQQsQMQgwE6BQguEIAEOgsILhCABBDHARCvAToFCAAQsQM6EwguEIAEELEDEIMBEMcBEK8BEAo6CAguEIAEENQCOgUIABCABDoGCAAQHhAWOggIABAeEA8QFlAAWMEaYK0jaABwAHgAgAF-iAGSDZIBBDE5LjKYAQCgAQE&sclient=gws-wiz
+
+How to Configure SSL on Jenkins Server
+https://devopscube.com/configure-ssl-jenkins/
+
+free certificate jenkins ssl
+https://www.google.com/search?q=free+certificate+jenkins+ssl&ei=3vCMYuvdBevgz7sPxZu7sAk&ved=0ahUKEwjrxOOysfj3AhVr8HMBHcXNDpYQ4dUDCA0&uact=5&oq=free+certificate+jenkins+ssl&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIICCEQHhAWEB06BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6EgguEMcBENEDEMgDELADEEMYAjoFCAAQgAQ6BAgAEEM6BggAEB4QFjoICAAQHhAPEBY6CAgAEB4QCBANOgcIIRAKEKABSgQIQRgASgQIRhgBUPgBWK8RYKkUaAFwAXgAgAGAAYgBtwiSAQQxMC4ymAEAoAEByAETwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz
+
+How do I get into the program files directory in DOS?
+https://www.computerhope.com/issues/ch001267.htm
+
+How to properly import a selfsigned certificate into Java keystore that is available to all Java applications by default?
+https://stackoverflow.com/questions/11617210/how-to-properly-import-a-selfsigned-certificate-into-java-keystore-that-is-avail
+
+Java Keytool error after importing certificate , "keytool error: java.io.FileNotFoundException & Access Denied"
+https://stackoverflow.com/questions/10321211/java-keytool-error-after-importing-certificate-keytool-error-java-io-filenot
+
+certificate jenkins
+https://www.youtube.com/results?search_query=certificate+jenkins
+
+how to add ssl certificate in java
+https://www.youtube.com/watch?v=lLy2TJGsVwY
+
+javax.net.ssl.trustStore where
+https://www.google.com/search?q=javax.net.ssl.trustStore+where&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiyluDHr_j3AhV2R2wGHS4LCzMQ_AUoAXoECAEQAw&cshid=1653403430295608&biw=1536&bih=754&dpr=1.25
+
+Unable to connect to SSL due to javax.net.ssl.SSLHandshakeException
+https://www.youtube.com/watch?v=c6--1GlM6sI
+
