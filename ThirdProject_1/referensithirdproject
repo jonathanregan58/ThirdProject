@@ -74,3 +74,48 @@ https://www.google.com/search?q=javax.net.ssl.trustStore+where&source=lnms&tbm=v
 Unable to connect to SSL due to javax.net.ssl.SSLHandshakeException
 https://www.youtube.com/watch?v=c6--1GlM6sI
 
+How to Solve Jenkins Plugins Installation Problem?
+https://stackoverflow.com/questions/54469711/how-to-solve-jenkins-plugins-installation-problem
+
+jenkins sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target site:stackoverflow.com
+https://www.google.com/search?q=jenkins+sun.security.provider.certpath.SunCertPathBuilderException:+unable+to+find+valid+certification+path+to+requested+target+site:stackoverflow.com&sxsrf=ALiCzsaxFzowbqBRiSq3OYEnHW2hzyuKjQ:1653374892603&sa=X&ved=2ahUKEwj0yZ25xff3AhW8S2wGHTTWAjMQrQIoBHoECAQQBQ&biw=1536&bih=754&dpr=1.25
+
+How to change the JDK for a Jenkins job?
+https://stackoverflow.com/questions/28810477/how-to-change-the-jdk-for-a-jenkins-job
+
+Can't find config.xml anywhere within Jenkins folder
+https://stackoverflow.com/questions/32565275/cant-find-config-xml-anywhere-within-jenkins-folder#:~:text=By%20default%20Jenkins%20home%20directory,equivalent%20to%20%25HOME%25%20).
+
+How do I run my selenium tests with Jenkins/Maven?
+https://stackoverflow.com/questions/29555130/how-do-i-run-my-selenium-tests-with-jenkins-maven
+
+How to run testng.xml from Maven command line
+https://stackoverflow.com/questions/42847732/how-to-run-testng-xml-from-maven-command-line
+
+TestNG – Executing testng.xml using Maven
+https://howtodoinjava.com/testng/how-to-execute-testng-tests-with-maven-build/
+
+
+Jenkins Email sending fails
+https://stackoverflow.com/questions/30185988/jenkins-email-sending-fails
+
+no emails were triggered. jenkins site:stackoverflow.com
+https://www.google.com/search?q=no+emails+were+triggered.+jenkins+site:stackoverflow.com&sxsrf=ALiCzsZZnAnf7t4u4fxZvLAKEnX9XyEPOQ:1654525575179&sa=X&ved=2ahUKEwiJnLiJhJn4AhUjjOYKHbMIB4cQrQIoBHoECAQQBQ&biw=1536&bih=754&dpr=1.25
+
+Make Maven to copy dependencies into target/lib
+https://stackoverflow.com/questions/97640/make-maven-to-copy-dependencies-into-target-lib
+
+TestNG by default disables loading DTD from unsecure Urls
+https://stackoverflow.com/questions/57299606/testng-by-default-disables-loading-dtd-from-unsecure-urls
+
+Unknown lifecycle phase "mvn". You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>
+https://stackoverflow.com/questions/38930469/unknown-lifecycle-phase-mvn-you-must-specify-a-valid-lifecycle-phase-or-a-goa
+
+Unknown lifecycle phase "mvn". You must specify a valid lifecycle phase or a goal in the format site:stackoverflow.com
+https://www.google.com/search?q=Unknown+lifecycle+phase+%22mvn%22.+You+must+specify+a+valid+lifecycle+phase+or+a+goal+in+the+format+site:stackoverflow.com&sxsrf=ALiCzsY94I22BZJ7vJPumfNU6yrxQZJNTg:1654525686620&sa=X&ved=2ahUKEwihk8q-hJn4AhWX8HMBHf44DUoQrQIoBHoECAkQBQ&biw=1536&bih=754&dpr=1.25
+
+Downgrade Jenkins
+https://stackoverflow.com/questions/30975866/downgrade-jenkins
+
+downgrade jenkins version site:stackoverflow.com
+https://www.google.com/search?q=downgrade+jenkins+version+site:stackoverflow.com&client=ms-android-samsung-ss&prmd=vni&sxsrf=ALiCzsYaPhBEjIOcSgMrE0k6VfJFZne1pg:1653462009716&sa=X&ved=2ahUKEwjTmPT9ifr3AhUeR2wGHctGBKIQrQIoA3oECAcQBA&biw=384&bih=775&dpr=2.81
